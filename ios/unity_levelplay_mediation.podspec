@@ -25,6 +25,6 @@ Mobile SDK for Unity LevelPlay
       'unity_levelplay_mediation' => ['Classes/**/*.xib']
   }
 
-  s.dependency 'IronSourceSDK','9.4.0.0'
+  s.dependency 'IronSourceSDK','9.1.0.0'
 end
 
